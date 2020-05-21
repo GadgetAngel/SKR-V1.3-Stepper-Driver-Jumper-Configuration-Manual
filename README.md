@@ -2,7 +2,9 @@
 :exclamation: This project provides documentation on how to configure stepper motor driver boards and
 how to use them with the SKR V1.3 3D printer controller board :exclamation:
 ```
- I use Git for Windows with VScode to manage this repository.  I also use Git LFS extenstion for .pdf and .png files.
+ I use Git for Windows with VScode to manage this repository.  I also use Git LFS extension for .pdf and .png files.
+
+ Install Git with LFS extension: https://git-lfs.github.com/
 
 To Download the whole repository do the following: select the "Clone or download button" and click on "paste to clipboard" button so you can place the URL for the GitHub repository to the clipboard. Now Open Git Bash.
 Change the current working directory to the location where you want the cloned directory.
