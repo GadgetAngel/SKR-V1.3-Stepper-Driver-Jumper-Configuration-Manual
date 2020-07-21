@@ -13,9 +13,7 @@ $ git clone https://github.com/GadgetAngel/SKR-V1.3-Stepper-Driver-Jumper-Config
 Press Enter to create your local clone.
 Now open Window explorer to the location of local clone.
 ```
-The Repository contains a .zip file that contains the whole repository. So, one can just hit one button to download the whole repository.  Just hit the "Download" button on the .zip file itself. If you see "view raw file" you can also mouse right click on the "view raw file" and  select "save link as.." from the pop up menu to save the .zip file to you local drive.
-
-Also, You can download the .zip from my google drive located here:
+You can download the .zip file (for this repository) from my google drive located here:
 
 ## The Whole Repository in .zip file is located on Google Drive at: https://drive.google.com/file/d/1Gv3_97y-F5aOKBmhfHuSJIC9z3NbTN3u/view?usp=sharing
 
